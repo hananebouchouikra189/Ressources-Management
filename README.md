@@ -51,7 +51,7 @@ Voici quelques captures d'écran du logiciel :
 ![Liste des Demandes](screenshots/liste_des_demandes.PNG)
 
 ### 8. **Liste des Ressources**
-![Liste des Ressources](screenshots/liste_des_ressources.PNG)
+![Liste des Ressources](screenshots/liste_ressources.PNG)
 
 ### 9. **Liste Noire**
 ![Liste Noire](screenshots/liste_noir.PNG)
