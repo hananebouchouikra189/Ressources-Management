@@ -29,41 +29,41 @@ Ce logiciel est conçu pour gérer les ressources matérielles des départements
 ## Screenshots
 Voici quelques captures d'écran du logiciel :
 
-1. **Ajouter Demande**
-   ![Ajouter Demande](screenshots/ajouter_demande.PNG)
+### 1. **Login**
+![Login](screenshots/login.PNG)
 
-2. **Ajouter Ordinateur**
-   ![Ajouter Ordinateur](screenshots/ajouter_ordinateur.PNG)
+### 2. **Registration**
+![Registration](screenshots/registration.PNG)
 
-3. **Besoins**
-   ![Besoins](screenshots/besoins.PNG)
+### 3. **Ajouter Demande**
+![Ajouter Demande](screenshots/ajouter_demande.PNG)
 
-4. **Créer Appel d'Offre**
-   ![Créer Appel d'Offre](screenshots/creer_appel_offre.PNG)
+### 4. **Ajouter Ordinateur**
+![Ajouter Ordinateur](screenshots/ajouter_ordinateur.PNG)
 
-5. **Liste des Demandes**
-   ![Liste des Demandes](screenshots/liste_des_demandes.PNG)
+### 5. **Besoins**
+![Besoins](screenshots/besoins.PNG)
 
-6. **Liste des Ressources**
-   ![Liste des Ressources](screenshots/liste_des_ressources.PNG)
+### 6. **Créer Appel d'Offre**
+![Créer Appel d'Offre](screenshots/creer_appel_offre.PNG)
 
-7. **Liste Noire**
-   ![Liste Noire](screenshots/liste_noir.PNG)
+### 7. **Liste des Demandes**
+![Liste des Demandes](screenshots/liste_des_demandes.PNG)
 
-8. **Livraison**
-   ![Livraison](screenshots/livrason.PNG)
+### 8. **Liste des Ressources**
+![Liste des Ressources](screenshots/liste_des_ressources.PNG)
 
-9. **Login**
-   ![Login](screenshots/login.PNG)
+### 9. **Liste Noire**
+![Liste Noire](screenshots/liste_noir.PNG)
 
-10. **Modifier Demande**
-    ![Modifier Demande](screenshots/modifier_demande.PNG)
+### 10. **Livraison**
+![Livraison](screenshots/livrason.PNG)
 
-11. **Registration**
-    ![Registration](screenshots/registration.PNG)
+### 11. **Modifier Demande**
+![Modifier Demande](screenshots/modifier_demande.PNG)
 
-12. **Responsable**
-    ![Responsable](screenshots/respo.PNG)
+### 12. **Responsable**
+![Responsable](screenshots/respo.PNG)
 
 ## Installation
 Pour cloner le projet, utilisez la commande suivante :
