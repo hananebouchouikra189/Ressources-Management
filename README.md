@@ -26,6 +26,14 @@ Ce logiciel est conçu pour gérer les ressources matérielles des départements
 - Notifications pour les approbations et les rejets d'offres.
 - Gestion des problèmes de maintenance.
 
+## Technologies Utilisées
+
+- **Spring Boot** : Framework pour le développement d'applications Java.
+- **Spring Security** : Gestion de la sécurité et de l'authentification.
+- **Hibernate/JPA** : Interaction avec la base de données.
+- **Thymeleaf** : Moteur de template pour les vues web.
+- **HTML/CSS/JS** : Technologies de base pour le développement frontend.
+
 ## Screenshots
 Voici quelques captures d'écran du logiciel :
 
